@@ -77,3 +77,6 @@ Teknologi dan tools yang digunakan:
 - Modelling: Gensim (Word2Vec), Scikit-learn (Cosine Similarity)
 - App & Deployment: Streamlit
 - Environment: VS Code, Jupyter Notebook
+
+### 👥 Team Collaboration
+This project was developed collaboratively as part of a final data analytics project.
