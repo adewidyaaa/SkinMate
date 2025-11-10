@@ -1,0 +1,22 @@
+<<<<<<< HEAD
+streamlit==1.44.0
+scikit-learn==1.6.1
+gensim==4.3.3
+pandas
+numpy
+nltk
+pillow
+scipy
+seaborn
+=======
+streamlit==1.44.0
+scikit-learn==1.6.1
+gensim==4.3.3
+pandas
+numpy
+nltk
+pillow
+scipy
+seaborn
+>>>>>>> 847706be8d0a05e67f9cba53f612280ddd5d1a97
+matplotlib

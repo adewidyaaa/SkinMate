@@ -1,0 +1,7 @@
+Put links related to model work here down below:
+
+Link Model Deployment: (https://huggingface.co/spaces/naufal-mantaa/skinmate-rmt-047)
+Link G-Drive Model: (https://drive.google.com/drive/folders/1pJjeJGNMyfSwCaWkVVwfmho0Ag30YZ3R)
+Link Slides Presentation: (https://docs.google.com/presentation/d/1S0pF0jkUpnGUiNhtV5pqNFVOD0fLGOUcrefrafY0bb0/edit?slide=id.g398a400cdab_0_51#slide=id.g398a400cdab_0_51)
+
+Seluruh model di-upload pada link google drive diatas 
