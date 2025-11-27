@@ -80,6 +80,10 @@ Teknologi dan tools yang digunakan:
 - Environment: VS Code, Jupyter Notebook
 
 
+## 📸 Dashboard Preview
+![SkinMate Dashboard](SkinMate-Dashboard.png)
+
+
 ## 📊 Dashboard  
 [![Open Dashboard](https://img.shields.io/badge/Open-Dashboard-4CAF50?style=for-the-badge)](https://drive.google.com/file/d/1fnT-3-s0Fz-opH7GZYrzOiPQkBB7pACt/view?usp=sharing)
 
