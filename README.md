@@ -8,7 +8,7 @@
    Folder berisi hasil scraping dari masing-masing tipe produk skincare :
    - cleanser_full.csv
    - moisturizer_full.csv
-   - serm_essence_full.csv
+   - serum_essence_full.csv
    - sun_protection_full.csv
    - toner_full.csv
 3. /deployment  
@@ -78,3 +78,15 @@ Teknologi dan tools yang digunakan:
 - Modelling: Gensim (Word2Vec), Scikit-learn (Cosine Similarity)
 - App & Deployment: Streamlit
 - Environment: VS Code, Jupyter Notebook
+
+
+### 📊 Dashboard  
+[![Open Dashboard](https://img.shields.io/badge/Open-Dashboard-4CAF50?style=for-the-badge)](https://drive.google.com/file/d/1fnT-3-s0Fz-opH7GZYrzOiPQkBB7pACt/view?usp=sharing)
+
+
+👥 Team Collaboration
+This project was developed as part of a team effort.    
+My responsibilities included:
+- Data scraping using Selenium  
+- Data cleaning and validation  
+- Building the dashboard using Power BI
