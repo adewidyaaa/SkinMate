@@ -22,6 +22,7 @@
 10. project_url.txt - Berisi link Streamlit dashboard dan Google Form evaluasi pengguna
 11. skincare_clean.csv - Dataset akhir setelah proses data cleaning
 12. skincare.csv - Dataset mentah hasil penggabungan data scraping
+13. SkinMate Dashboard.png - Berupa screenshot dashboard yang dibuat dengan Power BI.
 
 ```
 
@@ -76,4 +77,7 @@ Teknologi dan tools yang digunakan:
 - Data Validation: Great Expectations
 - Modelling: Gensim (Word2Vec), Scikit-learn (Cosine Similarity)
 - App & Deployment: Streamlit
-- Environment: VS Code, Jupyter Notebook
+- Environment: VS Code, Jupyter Notebook  
+
+## Reference
+Dashboard : [![Open Dashboard](https://img.shields.io/badge/Open-Dashboard-4CAF50?style=for-the-badge)](https://drive.google.com/file/d/1fnT-3-s0Fz-opH7GZYrzOiPQkBB7pACt/view?usp=sharing)
