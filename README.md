@@ -80,11 +80,11 @@ Teknologi dan tools yang digunakan:
 - Environment: VS Code, Jupyter Notebook
 
 
-### 📊 Dashboard  
+## 📊 Dashboard  
 [![Open Dashboard](https://img.shields.io/badge/Open-Dashboard-4CAF50?style=for-the-badge)](https://drive.google.com/file/d/1fnT-3-s0Fz-opH7GZYrzOiPQkBB7pACt/view?usp=sharing)
 
 
-👥 Team Collaboration
+## 👥 Team Collaboration  
 This project was developed as part of a team effort.    
 My responsibilities included:
 - Data scraping using Selenium  
