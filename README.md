@@ -76,8 +76,12 @@ Teknologi dan tools yang digunakan:
 - Data Analysis: Pandas, NumPy, Matplotlib, Seaborn
 - Data Validation: Great Expectations
 - Modelling: Gensim (Word2Vec), Scikit-learn (Cosine Similarity)
-- App & Deployment: Streamlit
+- App & Deployment: Streamlit, Power BI
 - Environment: VS Code, Jupyter Notebook
+
+
+## 📸 Dashboard Preview
+![SkinMate Dashboard](SkinMate-Dashboard.png)
 
 
 ## 📊 Dashboard  
